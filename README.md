@@ -1,1 +1,1 @@
-# sales-tax-simulator
+# Life Time Sales Tax Simulation Project
